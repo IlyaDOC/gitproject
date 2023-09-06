@@ -12,4 +12,5 @@ span {
 p {
     color: black;
     border: 1px solid black;
+    max-width: 300px;
 }
